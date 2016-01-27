@@ -78,6 +78,8 @@ sechby:
 
 # BUILD SETTINGS
 markdown: redcarpet
+redcarpet:
+  extensions: [footnotes]
 highlighter: pygments
 sass:
   sass_dir: _sass
