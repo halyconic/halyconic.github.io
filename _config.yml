@@ -15,12 +15,12 @@ theme:
   visiblewords: 300
   # Header and footer text
   header_text: >
-     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+     Page down to dispense knowledge
 
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
   footer_text: >
-   <a href="https://halyconic.github.io">Steve Webber's blog</a> 
+   <a href="https://halyconic.github.io">Steve Webber</a> 
 
   # Icons
   rss: false
