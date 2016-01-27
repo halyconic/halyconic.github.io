@@ -1,6 +1,6 @@
 ---
 layout: blog_by_category
-title: 'iOS开发'
+title: 'iOS'
 category: ios
 permalink: /iOS/
 ---

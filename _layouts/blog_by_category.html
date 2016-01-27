@@ -21,7 +21,8 @@ layout: default
 		      </a>
 		    </h1>
 		    <p id="subtitletrans" class="subtitlecontainer">
-		      <a class="subtitle">{{ post.date | date: "%Y年%m月%-d日" }}</a>
+                      <!-- <a class="subtitle">{{ post.date | date: "%Y年%m月%-d日" }}</a> -->
+		      <a class="subtitle">{{ post.date | date: "%m-%-d-%Y" }}</a>
 		      {% if post.author %} | <a class="subtitle" href="{{ site.baseurl }}/About/">{{ post.author }}</a>{% endif %}
 		      {% if post.category and post.tags %} | <a class="subtitle">{{ category_content }}</a> <a class="subtitle">{{ tags_content }}</a>{% endif %}
 		    </p>
