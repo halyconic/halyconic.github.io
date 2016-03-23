@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Caching with Java 8
+category: Code
+tags: [java, lambda]
 ---
 
 When working with legacy code, or just co-workers with distinct programming styles, it can be difficult to refactor. However, to save resources, be it time or cpu cycles, it is often necessary. Often enterprise level code is convoluted, unconventional, and downright ugly.

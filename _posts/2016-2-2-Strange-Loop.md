@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strange Loop
+category: Code
 ---
 
 I've known about the conference StrangeLoop for a while, but yesterday I decided to google the top video search results. I never expected how useful they would be! I've watched other academic lectures, but these are a cut above the rest. I'd like to comment on the two I've seen.
